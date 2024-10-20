@@ -27,8 +27,9 @@ import org.tensorflow.lite.task.gms.vision.detector.ObjectDetector
 class ObjectDetectorHelper(
     var threshold: Float = 0.5f,
     var maxResults: Int = 5,
-    val modelName: String = "efficientdet-tflite-lite0-detection-metadata-v1.tflite",
+//    val modelName: String = "efficientdet-tflite-lite0-detection-metadata-v1.tflite",
 //    val modelName: String = "model_4_labels_from_kaggle.tflite",
+    val modelName: String = "detect_metadata_quant.tflite",
     val context: Context,
     val detectorListener: DetectorListener?
 ) {
