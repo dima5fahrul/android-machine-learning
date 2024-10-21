@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467489269404",
+    "project_id": "fir-ml-ea514",
+    "storage_bucket": "fir-ml-ea514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467489269404:android:c239fecdfce067c0bf2f59",
+        "android_client_info": {
+          "package_name": "com.example.firebasemachinelearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQuYhjKnod0-qGw41OZAwBMsZZriW-fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
